@@ -1,5 +1,8 @@
 Kalista is a state-of-the-art photorealistic model that is extremely consistent in generating high quality outputs.
 
+This was meant to be a quick experiment on 'simulating' additional training steps by finding the mean values of multiple different checkpoints that were
+trained on separate datasets.
+
 To avoid multiple uploads, this model is only hosted on [hugginface](https://huggingface.co/skylersterling/kalista/tree/main) and [civitai](). 
 
 
@@ -14,9 +17,6 @@ the images generated:
 
 All the example images provided are 100% raw and were generated in succession from one another. Unfortunately the exact order is lost,
 but the point remains the same.
-
-Kalista was meant to be a quick experiment on 'simulating' additional training steps by finding the mean values of multiple different checkpoints that were
-trained on separate datasets.
 
 More photo examples can be found in the images folder of this repository. 
 
