@@ -1,17 +1,3 @@
----
-license: creativeml-openrail-m
-tags:
-- art
-- stable-diffusion
-- Automatic1111
-- .ckpt
-- stable-diffusion-diffusers
-- text-to-image
-- diffusers
-- kalista
-inference: false
----
-
 Kalista is a state-of-the-art photorealistic model that is extremely consistent in generating high quality outputs.
 
 To avoid multiple uploads, this model is only hosted on [hugginface](https://huggingface.co/skylersterling/kalista/tree/main) and [civitai](). 
