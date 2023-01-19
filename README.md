@@ -3,7 +3,7 @@ Kalista is a state-of-the-art photorealistic model that is extremely consistent 
 This was meant to be a quick experiment on 'simulating' additional training steps by finding the mean values of multiple different checkpoints that were
 trained on separate datasets.
 
-To avoid multiple uploads, this model is only hosted on [hugginface](https://huggingface.co/skylersterling/kalista/tree/main) and [civitai](). 
+To avoid multiple uploads, this model is only hosted on [hugginface](https://huggingface.co/skylersterling/kalista/tree/main) and [civitai](https://civitai.com/models/4825/kalista). 
 
 
 While prompting proved quite difficult to maneuver as compared to other models, i was personally blown away by the consistency of the raw quality of 
