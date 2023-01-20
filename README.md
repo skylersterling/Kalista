@@ -1,4 +1,4 @@
-Kalista is a state-of-the-art photorealistic model that is extremely consistent in generating high quality outputs.
+Kalista is a state-of-the-art stylized realism model that is extremely consistent in generating high quality outputs.
 
 This was meant to be a quick experiment on 'simulating' additional training steps by finding the mean values of multiple different checkpoints that were
 trained on separate datasets.
