@@ -21,7 +21,7 @@ but the point remains the same.
 More photo examples can be found in the images folder of this repository. 
 
 Since my GPU is not powerful enough, i am open to including your generated images here. Ofcourse this is completely optional but i would really appreciate it if you could
-send me some of your best generations at zehmiel@tutanota.com! Alternatively, you can submit your generations on directly on Civitai: [currently uploading]
+send me some of your best generations at zehmiel@tutanota.com! Alternatively, you can submit your generations on directly on [civitai](https://civitai.com/models/4825/kalista).
 
 ## License
 
